@@ -1,0 +1,11 @@
+
+.navbar nav ul{
+    display:flex;
+    justify-content:left;
+}
+
+
+nav li{
+    padding: 0 15px 0 59px;
+
+}
